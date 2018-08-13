@@ -22,7 +22,7 @@ function getTweets() {
     // Accesses Twitter Keys
     var client = new Twitter(keys.twitter); 
     var params = {
-        //screen_name: 'DaltonDDevs',
+        screen_name: "DaltonDDevs",
         count: 20
         };
 
