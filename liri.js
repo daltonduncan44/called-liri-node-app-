@@ -1,7 +1,7 @@
 /// requires to packages and keys
 var fs = require('fs'); 
 var request = require('request');
-var dotenv = require("dotenv").config();
+require("dotenv").config();
 var keys = require("./keys.js");
 var Twitter = require("twitter");
 var Spotify = require('node-spotify-api');
@@ -21,10 +21,9 @@ function getTweets() {
 
     // Accesses Twitter Keys
     var client = new Twitter(keys.twitter); 
-    var params = {
-        screen_name: "DaltonDDevs",
-        count: 20
-        };
+    var params = "DaltonDDevs";
+       
+        
 
     client.get('statuses/user_timeline', params, function( tweets, response) {
 
@@ -37,7 +36,7 @@ function getTweets() {
             console.log(i + 1 + ". Tweet: ", tweets[i].text);
 
             // For alingment once the number of the tweet is 10 or higher
-            if (i + 1 > 9) {
+            if (i + 1 > 20) {
                 console.log("    Tweeted on: ", tweets[i].created_at + "\n");
             } else {
                 console.log("   Tweeted on: ", tweets[i].created_at + "\n");
