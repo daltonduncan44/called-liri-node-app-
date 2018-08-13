@@ -1,0 +1,156 @@
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Mon Aug 13 2018 19:09:22 GMT-0400 (Eastern Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\dalto\Documents\UCF\called-liri-node-app-\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: @wesbos @FirefoxDevTools Huge thanks to you for your time and efforts and @FirefoxDevTools for sponsoring, I really… https://t.co/rH94IxwkRb
+Tweeted on: Sun Jun 10 17:12:05 +0000 2018
+
+2. Tweet: @wesbos I'm taking this course to learn grid for a coding challenge. I am near the end and still have a question. W… https://t.co/LOAUEEmvkd
+Tweeted on: Sun Jun 10 17:10:45 +0000 2018
+
+3. Tweet: #griddyup just started your css grid course and looking forward to learning it!
+Tweeted on: Sat Jun 09 16:27:33 +0000 2018
+
+5. Tweet: I miss Grizzabella.
+Tweeted on: Mon Jan 29 18:06:14 +0000 2018
+
+6. Tweet: I just watched a video of my brother training his cats to jump over his arm for treats. I never thought I would say such a thing.
+Tweeted on: Mon Jan 29 18:05:35 +0000 2018
+
+7. Tweet: Though I love snow, I really love that it's in the 70's outside!
+Tweeted on: Mon Jan 29 18:01:34 +0000 2018
+
+4. Tweet: I've always wanted twins. Then I had a kiddo. Hats off to all of yinz out there with multiples!
+Tweeted on: Mon Jan 29 18:07:37 +0000 2018
+
+10. Tweet: I look forward to playing make-believe.
+Tweeted on: Mon Jan 29 17:57:55 +0000 2018
+
+8. Tweet: I don't know why I haven't visited the beach more since we moved here.
+Tweeted on: Mon Jan 29 17:59:48 +0000 2018
+
+9. Tweet: Faith, trust, and pixie dust. All I am missing is the pixie dust.
+Tweeted on: Mon Jan 29 17:59:10 +0000 2018
+
+12. Tweet: Captain Planet, he's a hero.
+Tweeted on: Mon Jan 29 16:17:05 +0000 2018
+
+13. Tweet: Here comes the sun!
+Tweeted on: Mon Jan 29 16:16:21 +0000 2018
+
+14. Tweet: The frost killed a lot of plants around here...🙁
+Tweeted on: Mon Jan 29 15:26:08 +0000 2018
+
+15. Tweet: Looks like somebody's got a case of the Mondays.
+Tweeted on: Mon Jan 29 14:22:05 +0000 2018
+
+16. Tweet: Much needed rain, keep it coming!
+Tweeted on: Mon Jan 29 03:46:37 +0000 2018
+
+17. Tweet: Spotify API is getting the best of me... : (
+Tweeted on: Sun Jan 28 19:12:03 +0000 2018
+
+18. Tweet: Not that I would know, I've been inside coding all morning!
+Tweeted on: Sun Jan 28 19:11:04 +0000 2018
+
+19. Tweet: It looks crummy outside, but it's warm.
+Tweeted on: Sun Jan 28 19:09:46 +0000 2018
+
+20. Tweet: Good morning!
+Tweeted on: Sun Jan 28 16:02:54 +0000 2018
+
+-----Tweets Log Entry End-----
+
+11. Tweet: I walk and run in my dreams.
+Tweeted on: Mon Jan 29 17:55:36 +0000 2018
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Mon Aug 13 2018 19:10:20 GMT-0400 (Eastern Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\dalto\Documents\UCF\called-liri-node-app-\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: This is my 10 post for hw
+Tweeted on: Mon Aug 13 19:47:10 +0000 2018
+
+2. Tweet: This is my 9 post for hw
+Tweeted on: Mon Aug 13 19:47:01 +0000 2018
+
+3. Tweet: This is my 8 post for hw
+Tweeted on: Mon Aug 13 19:46:54 +0000 2018
+
+4. Tweet: This is my 7 post for hw
+Tweeted on: Mon Aug 13 19:46:46 +0000 2018
+
+6. Tweet: This is my 5 post for hw
+Tweeted on: Mon Aug 13 19:46:32 +0000 2018
+
+7. Tweet: This is my 4 post for hw
+Tweeted on: Mon Aug 13 19:46:24 +0000 2018
+
+8. Tweet: This is my 3 post for hw
+Tweeted on: Mon Aug 13 19:46:04 +0000 2018
+
+9. Tweet: This is my 2 post for hw
+Tweeted on: Mon Aug 13 19:45:57 +0000 2018
+
+10. Tweet: This is my first post for hw
+Tweeted on: Mon Aug 13 19:45:38 +0000 2018
+
+-----Tweets Log Entry End-----
+
+5. Tweet: This is my 6 post for hw
+Tweeted on: Mon Aug 13 19:46:38 +0000 2018
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Mon Aug 13 2018 19:12:25 GMT-0400 (Eastern Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\dalto\Documents\UCF\called-liri-node-app-\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: This is my 10 post for hw
+Tweeted on: Mon Aug 13 19:47:10 +0000 2018
+
+2. Tweet: This is my 9 post for hw
+Tweeted on: Mon Aug 13 19:47:01 +0000 2018
+
+5. Tweet: This is my 6 post for hw
+Tweeted on: Mon Aug 13 19:46:38 +0000 2018
+
+6. Tweet: This is my 5 post for hw
+Tweeted on: Mon Aug 13 19:46:32 +0000 2018
+
+3. Tweet: This is my 8 post for hw
+Tweeted on: Mon Aug 13 19:46:54 +0000 2018
+
+8. Tweet: This is my 3 post for hw
+Tweeted on: Mon Aug 13 19:46:04 +0000 2018
+
+4. Tweet: This is my 7 post for hw
+Tweeted on: Mon Aug 13 19:46:46 +0000 2018
+
+10. Tweet: This is my first post for hw
+Tweeted on: Mon Aug 13 19:45:38 +0000 2018
+
+-----Tweets Log Entry End-----
+
+9. Tweet: This is my 2 post for hw
+Tweeted on: Mon Aug 13 19:45:57 +0000 2018
+
+7. Tweet: This is my 4 post for hw
+Tweeted on: Mon Aug 13 19:46:24 +0000 2018
+
