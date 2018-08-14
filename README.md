@@ -5,7 +5,7 @@ In this assignment, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI
 <br/>
 
 
+<img src="https://media.giphy.com/media/3ocqIW9TVP8Cs6vGXC/giphy.gif" width="800">
 
 
-![Alt Text](https://media.giphy.com/media/3ocqIW9TVP8Cs6vGXC/giphy.gif)
 
