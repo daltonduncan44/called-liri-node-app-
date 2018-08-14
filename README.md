@@ -17,4 +17,8 @@ In this assignment, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI
 
 <img src="https://media.giphy.com/media/SGXywnpjPGdh5lyqcy/giphy.gif" width="800">
 
+<br/>
+
+
+<img src="https://media.giphy.com/media/SFKbt9FdOLomW4jxps/giphy.gif" width="800">
 
